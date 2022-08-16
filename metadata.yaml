@@ -1,0 +1,59 @@
+_repo: Aus-dem-Leben-der-Insekten_68593
+_version: 0.0.1
+alternative_title: Insect life. German
+contributor:
+  illustrator:
+    agent_name: Muckley, Angelo Fairfax
+    aliases:
+    - Muckley, A. F. (Angelo Fairfax)
+    - Fairfax Muckley, A. (Angelo)
+    - Muckley, A. Fairfax (Angelo Fairfax)
+    birthdate: 1859
+    deathdate: 1920
+    gutenberg_agent_id: '39502'
+    url: http://www.gutenberg.org/2009/agents/39502
+  translators:
+  - agent_name: Kriete, Fritz
+    alias: Kriete, Fritz Wilhelm Gustav‏
+    birthdate: 1858
+    gutenberg_agent_id: '50253'
+    url: http://www.gutenberg.org/2009/agents/50253
+  - agent_name: Rabes, O. (Otto)
+    alias: Rabes, Otto
+    birthdate: 1873
+    gutenberg_agent_id: '50254'
+    url: http://www.gutenberg.org/2009/agents/50254
+creator:
+  author:
+    agent_name: Buckley, Arabella B. (Arabella Burton)
+    alias: Fisher, Arabella Burton Buckley
+    birthdate: 1840
+    deathdate: 1929
+    gutenberg_agent_id: '1854'
+    url: http://www.gutenberg.org/2009/agents/1854
+    wikipedia: https://en.wikipedia.org/wiki/Arabella_Buckley
+description: ''
+gutenberg_issued: '2022-07-23'
+identifiers:
+  gutenberg: '68593'
+language: de
+pgterms:marc904: https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN743947525&PHYSID=PHYS_0003&DMDID=DMDLOG_0001
+pgterms:marc905: 20180727233701buckley
+pgterms:marc906: '1911'
+pgterms:marc907: de
+production_note: Peter Becker, Reiner Ruf, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (The digitized holdings of the Staatsbibliothek zu
+  Berlin are available to all interested parties worldwide free of charge for non-commercial
+  use.)
+publication_note: Germany :Hermann Gesenius,1911.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Kinderaugen in der Natur, 6
+subjects:
+- !lcsh 'Nature study -- Juvenile literature'
+- !lcsh 'Insects -- Juvenile literature'
+- !lcc 'QL'
+- GITenberg
+title: Aus dem Leben der Insekten
+url: http://www.gutenberg.org/ebooks/68593
